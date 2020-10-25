@@ -92,4 +92,4 @@ async function getBackgroundImg(){
   }
 // review 
   backgroundImg = loadImage(bg);
-  console.log(backgroundImg);
+  console.log(backgroundImg);}
